@@ -16,3 +16,4 @@
 5. Change the markdown file with more technologies you would like to learn
 6. Push the updated code to github
 7. paste the link to the repo below:
+https://github.com/maryamghm/DCI-intro.git
