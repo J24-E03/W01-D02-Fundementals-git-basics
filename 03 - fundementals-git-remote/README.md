@@ -9,3 +9,5 @@
 5. Add the github repository as the remote origin
 6. Push the markdown to the remote repository
 7. Link to the repo below:
+
+https://github.com/maryamghm/github-practice.git
